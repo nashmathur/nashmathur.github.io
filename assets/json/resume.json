@@ -1,24 +1,19 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Natansh Mathur",
+    "label": "PhD Student & Associate Staff Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "natansh.mathur@qcware.com",
+    "url": "https://nashmathur.github.io/",
+    "summary": "I am a (CIFRE) PhD Student at IRIF, CNRS and a Quantum Researcher at QC Ware. My research is in the field of quantum machine learning.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Paris",
+      "countryCode": "France"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/natanshmathur/"
       }
     ]
   },
@@ -30,32 +25,35 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Relativity"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Institut de Recherche en Informatique Fondamentale (IRIF), CNRS, Université Paris Cité, France & QC Ware, France",
+      "location": "Paris, France",
+      "studyType": "PhD (CIFRE) in Quantum Machine Learning",
+      "startDate": "2022",
+      "endDate": "2025",
+      "highlights": [
+        "Supervisor: Prof. Iordanis Kerenidis"
+      ]
+    },
+    {
+      "institution": "Université Paris Cité, France",
+      "location": "Paris, France",
+      "studyType": "Master of Research in Computer Science (MPRI)",
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "institution": "Indian Institute of Technology (IIT) Roorkee, India",
+      "location": "Roorkee, India",
+      "studyType": "Bachelor of Technology in Computer Science & Engineering",
+      "startDate": "2017",
+      "endDate": "2021"
     }
   ],
   "awards": [
@@ -134,29 +132,29 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Marwari",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "B1 Proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Urdu",
       "fluency": "Fluent",
       "icon": ""
     }
@@ -191,7 +189,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
