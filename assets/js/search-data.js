@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A selection of quantum machine learning research and industry projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "The detailed CV is available in the PDF version.",
@@ -45,62 +52,45 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-paper-bayesian-quantum-orthogonal-neural-networks-for-anomaly-detection-was-accepted-at-ieee-qce-2025-with-talks-at-qtml-2025-singapore-and-ieee-quantum-week-2025-albuquerque-and-a-poster-at-qctip-2025-berlin",
+          title: 'Our paper “Bayesian Quantum Orthogonal Neural Networks for Anomaly Detection” was accepted at...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-scalable-on-hardware-training-of-quantum-neural-networks-and-application-to-clinical-data-imputation-was-accepted-at-ieee-qce-2026-with-a-talk-at-ieee-quantum-week-2026-in-toronto-canada",
+          title: 'Our paper “Scalable On-Hardware Training of Quantum Neural Networks and Application to Clinical...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-quantinuum-in-singapore-as-a-senior-r-amp-amp-d-scientist-working-on-quantum-machine-learning-and-optimisation-algorithms",
+          title: 'Joined Quantinuum in Singapore as a Senior R&amp;amp;amp;D Scientist, working on quantum machine...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-quantum-vision-transformers",
+          title: 'Quantum Vision Transformers',
+          description: "Quantum analogues and quantum-native variants of the vision transformer for medical image classification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-bayesian-quantum-neural-networks-for-anomaly-detection",
+          title: 'Bayesian Quantum Neural Networks for Anomaly Detection',
+          description: "Bayesian quantum orthogonal neural networks for fault segmentation in 3D car parts and satellite ship-route imagery",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-quantum-machine-learning-for-enhancing-mri-screening",
+          title: 'Quantum Machine Learning for Enhancing MRI Screening',
+          description: "Quantum machine learning techniques to improve MRI acquisition, as part of Wellcome Leap&#39;s Quantum for Bio Challenge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-quantum-neural-networks-for-credit-risk-assessment",
+          title: 'Quantum Neural Networks for Credit Risk Assessment',
+          description: "Hybrid classical-quantum neural networks for predicting credit risk from customer data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-quantum-orthogonal-neural-networks-for-medical-image-classification",
+          title: 'Quantum Orthogonal Neural Networks for Medical Image Classification',
+          description: "An orthogonal neural network architecture built from quantum gates, with an efficient training algorithm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-quantum-convolutional-neural-networks-for-surface-crack-detection",
+          title: 'Quantum Convolutional Neural Networks for Surface Crack Detection',
+          description: "A convolutional neural network based on quantum orthogonal neural networks, applied to surface crack segmentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
