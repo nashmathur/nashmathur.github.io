@@ -8,13 +8,13 @@ middle_name: # your middle name
 last_name: Mathur
 contact_note: >
   Please feel free to connect if you have any questions or would like to collaborate.
-# description: > # the ">" symbol means to ignore newlines until "footer_text:"
-#   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Natansh Mathur is a Senior R&D Scientist at Quantinuum working on quantum machine learning and optimisation algorithms.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: quantum machine learning, quantum computing, quantum neural networks, research scientist # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -154,7 +154,7 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

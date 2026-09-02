@@ -3,24 +3,26 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: This website is currently a work in progress (just like all of us).
+subtitle: Senior R&D Scientist, Quantinuum
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>Paris. France.</p>
+    <p>Singapore</p>
     <p>Nationality: Indian</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am Natansh Mathur (Hindi: नतांश माथुर), a PhD student at [IRIF](https://www.irif.fr), [CNRS](https://www.cnrs.fr/en) & [Université Paris Cité](https://u-paris.fr) under [Prof. Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html). I am also an Associate Staff Scientist at [QC Ware](https://www.qcware.com), France.
+Hello! I am Natansh Mathur (Hindi: नतांश माथुर), a Senior R&D Scientist at [Quantinuum](https://www.quantinuum.com) in Singapore, working on quantum machine learning and optimisation algorithms.
 
-My research lies in the field of Quantum Computing and Machine Learning, particularly on quantum algorithms for neural networks.
+Before Quantinuum, I spent six years at [QC Ware](https://www.qcware.com) in Paris, most recently as an Associate Staff Scientist, where I built quantum machine learning solutions for industrial partners across pharmaceuticals, finance, and automotive. Alongside this, I completed an industrial PhD (CIFRE) in Computer Science at [IRIF](https://www.irif.fr), [CNRS](https://www.cnrs.fr/en) & [Université Paris Cité](https://u-paris.fr), supervised by [Prof. Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), on the theory and applications of Hamming-weight preserving quantum neural networks. I hold a Master's (MPRI) from Université Paris Cité and a B.Tech in Computer Science and Engineering from the [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in).
+
+My research focuses on quantum algorithms for machine learning: orthogonal and Hamming-weight preserving quantum neural networks, quantum vision transformers, Bayesian quantum neural networks, and their applications to real-world problems in medical imaging, anomaly detection, and financial forecasting.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
